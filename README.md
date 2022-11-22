@@ -5,6 +5,28 @@ Tool to Disable User Lock
 
 ![WhatsApp Image 2022-11-22 at 14 33 01](https://user-images.githubusercontent.com/102838167/203383547-b6631610-f616-4bc1-a8a3-72337f52be63.jpeg)
 
+## 🌐 Download
+
+### 🚀 Donate:
+
+- CHAVE PIX: 3901d8ea-22ca-4ba8-a0fb-2615e5485b2c
+
+- Donate Pypal:
+- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Fernanda Santos)
+
+![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
+
+## ⚙️ Technologies used
+- C#.
+
+## 🚀 License
+- Free Software.
+
+## 🤖 Contacts
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
+- https://www.linkedin.com/in/daniel-a-avilla-0987/
+- daniel.avilla@policiacivil.sp.gov.br
+
 ## List Devices:
 
 - Donate a device to the lab:
