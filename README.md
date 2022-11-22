@@ -1,5 +1,5 @@
 # Avilla-Unlock-Samsung-Devices
-Tool to Disable User Lock
+## Tool to Disable User Lock
 
 ![Unlock-01](https://user-images.githubusercontent.com/102838167/203383175-6e0a0afc-13a1-488d-97ae-4a20d20be07b.JPG)
 
