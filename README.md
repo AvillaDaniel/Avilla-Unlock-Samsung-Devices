@@ -7,6 +7,8 @@ Tool to Disable User Lock
 
 ## 🌐 Download
 
+- Wait a Moment
+
 ### 🚀 Donate:
 
 - CHAVE PIX: 3901d8ea-22ca-4ba8-a0fb-2615e5485b2c
